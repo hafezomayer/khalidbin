@@ -1,0 +1,26 @@
+2022-11-16T00:34:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 386
+
+2022-11-16T00:39:13+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+
+2022-11-16T03:15:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+
+2022-11-16T04:02:40+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wpdb.php on line 2587
+
+2022-11-16T04:10:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+
+2022-11-16T04:32:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+
+2022-11-16T05:17:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+
+2022-11-16T05:26:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 386
+
+2022-11-16T05:40:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+
+2022-11-16T05:46:52+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+
+2022-11-16T06:18:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 386
+
+2022-11-16T06:23:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+
+2022-11-16T06:33:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home4/learntg7/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+
